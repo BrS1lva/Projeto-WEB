@@ -1,2 +1,2 @@
-# Projeto-WEB
-Repositorio da disciplina de programação WEB 
+# Projeto-Programa-o-WEB
+Repositorio do projeto de programação WEB 
